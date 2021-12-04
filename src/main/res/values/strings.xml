@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Project5</string>
+    <string name="main_menu_title">Main Menu</string>
+    <string name="pizza_customizer_title">Pizza Maker</string>
+    <string name="store_orders_title">Store Orders</string>
+    <string name="current_order_title">Current Order</string>
+    <string name="MM_title">RU Pizzeria</string>
+    <string name="MM_phone_prompt">Enter Phone Number to Begin!</string>
+    <string name="MM_add_pepperoni">Add Pepperoni</string>
+    <string name="MM_add_hawaiian">Add Hawaiian</string>
+    <string name="MM_add_deluxe">Add Deluxe</string>
+    <string name="MM_manage_store_orders">Manage Store Orders</string>
+    <string name="MM_check_current_order">Check Current Order</string>
+    <string name="MM_phone_hint">xxxxxxxxxx</string>
+    <string name="MM_pizza_guy">cartoon image</string>
+    <string name="MM_select_toppings">Select Toppings to Remove ↑</string>
+    <string name="MM_add_toppings">Select Toppings to Add ↓</string>
+
+
+    <string name="SO_store_orders_title">Store Orders</string>
+    <string name="SO_phone_number">Customer Phone Number</string>
+    <string name="SO_order_total">Order Total: $</string>
+    <string name="SO_cancel_button">Cancel Order</string>
+
+    <string name="PC_size">Choose Size:</string>
+    <string name="PC_add_button">Add</string>
+    <string name="PC_remove_button">Remove</string>
+    <string name="PC_price">Price: $</string>
+    <string name="PC_add_to_order">Add to Order</string>
+    <string name="PC_pizza_image">Image of the Pizza</string>
+    <string-array name="PC_sizes">
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+    </string-array>
+
+    <string name="CO_title">Current Order</string>
+    <string name="CO_phone_number">Phone Number</string>
+    <string name="CO_subtotal">Subtotal: $</string>
+    <string name="CO_tax">Sales Tax: $</string>
+    <string name="CO_order_total">Order Total: $</string>
+    <string name="CO_remove_button">Remove Pizza</string>
+    <string name="CO_add_button">Add Order</string>
+    <string name="CO_instructions">Select a Pizza First and Then Click Remove</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
+</resources>
